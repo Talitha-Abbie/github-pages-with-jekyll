@@ -1,3 +1,3 @@
-# Welcome to my blog
+My Online Portfolio
 
-I'm glad you are here. I plan to talk about ...
+This is my first go at Github pages...let me know what you think!
